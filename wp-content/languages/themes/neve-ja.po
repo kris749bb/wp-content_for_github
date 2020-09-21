@@ -1,0 +1,1255 @@
+# Translation of Themes - Neve in Japanese
+# This file is distributed under the same license as the Themes - Neve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-13 00:40:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Neve\n"
+
+#. Description of the theme
+msgid "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!"
+msgstr "Neve は超高速、簡単にカスタマイズできる多目的テーマです。ブログ、中小企業、スタートアップ、代理店、大企業、オンラインショップ (WooCommerce 店舗) のほか個人のポートフォリオサイトやほとんどの種類のプロジェクトにぴったりです。完全に AMP 最適化済みのレスポンシブテーマである Neve は、わずかな時間で読み込まれ、どんな表示デバイスでも完璧に合わせます。軽量でミニマリストなデザインでありながら、テーマは拡張性が高く、コードは SEO 最適化済みで、Google 検索結果の上位に表示されます。Neve は Gutenberg を始めとする有名なページビルダー (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi)) で完璧に動作します。Neve はまた、WooCommerce 対応済みで、レスポンシブ、RTL と多言語対応済みです。これ以上探す必要はありません。Neve はあなたにとって完璧なテーマです !"
+
+#. Theme Name of the theme
+msgid "Neve"
+msgstr "Neve"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:244
+#: header-footer-grid/Core/Components/Search.php:80
+msgid "Height"
+msgstr "高さ"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:227
+msgid "Search Field"
+msgstr "検索フィールド"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:135
+msgid "Icon"
+msgstr "アイコン"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:119
+msgid "Float Above Header"
+msgstr "ヘッダーの上にフロート"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:118
+msgid "Minimal"
+msgstr "ミニマル"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:117
+msgid "Canvas"
+msgstr "キャンバス"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1295
+#: header-footer-grid/Core/Components/SearchResponsive.php:113
+msgid "Open Behaviour"
+msgstr "開く際の挙動"
+
+#: inc/core/front_end.php:191
+msgid "Button Hover Color"
+msgstr "ボタンのホバー色"
+
+#: inc/core/front_end.php:187
+msgid "Button Hover text color"
+msgstr "ボタンホバーテキスト色"
+
+#: inc/core/front_end.php:183
+msgid "Button text color"
+msgstr "ボタンのテキスト色"
+
+#: dashboard/inc/Main.php:252 dashboard/inc/Main.php:273
+msgid "Update Now"
+msgstr "今すぐ更新"
+
+#. translators: %s - "Neve Pro Addon"
+#: dashboard/inc/Main.php:208
+msgid "%s license"
+msgstr "%s ライセンス"
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:196
+msgid "%s Options"
+msgstr "%sの設定"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:358
+#: header-footer-grid/Core/Components/Search.php:194
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:144
+msgid "Border Width"
+msgstr "枠線の幅"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:415
+#: header-footer-grid/Core/Components/Search.php:251
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:118
+msgid "Border Radius"
+msgstr "枠線の丸み"
+
+#: inc/customizer/options/layout_container.php:63
+msgid "Container width"
+msgstr "コンテナの幅"
+
+#: header-footer-grid/Core/Components/Logo.php:162
+msgid "Logo max width"
+msgstr "ロゴの最大幅"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:325
+msgid "Row height"
+msgstr "行高さ"
+
+#: header-footer-grid/Core/Magic_Tags.php:595
+msgid "Currency Symbol"
+msgstr "通貨記号"
+
+#: header-footer-grid/Core/Magic_Tags.php:591
+msgid "Currency Name"
+msgstr "通貨名"
+
+#: header-footer-grid/Core/Magic_Tags.php:587
+msgid "Total"
+msgstr "合計"
+
+#: header-footer-grid/Core/Magic_Tags.php:583
+msgid "Total + Currency Symbol"
+msgstr "合計 + 通貨記号"
+
+#: header-footer-grid/Core/Components/Logo.php:192
+msgid "Disable Homepage Link"
+msgstr "ホームページリンクを無効化"
+
+#: header-footer-grid/Core/Magic_Tags.php:553
+msgid "User Email"
+msgstr "ユーザーのメールアドレス"
+
+#: header-footer-grid/Core/Magic_Tags.php:549
+msgid "Display Name"
+msgstr "表示名"
+
+#: header-footer-grid/Core/Magic_Tags.php:545
+msgid "User Nice Name"
+msgstr "ユーザーのニックネーム"
+
+#: header-footer-grid/Core/Magic_Tags.php:542
+msgid "Current User"
+msgstr "現在のユーザー"
+
+#: header-footer-grid/Core/Components/Nav.php:236
+#: header-footer-grid/Core/Components/NavFooter.php:151
+#: header-footer-grid/Core/Components/SecondNav.php:154
+msgid "Items Spacing (px)"
+msgstr "項目の間隔 (px)"
+
+#: header-footer-grid/Core/Components/Nav.php:95
+#: header-footer-grid/Core/Components/NavFooter.php:68
+#: header-footer-grid/Core/Components/SecondNav.php:68
+msgid "Hover Skin Mode"
+msgstr "ホバースキンモード"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:479
+msgid "Justify"
+msgstr "両端揃え"
+
+#: header-footer-grid/Core/Builder/Header.php:97
+#: header-footer-grid/Core/Builder/Header.php:107
+msgid "Header Presets"
+msgstr "ヘッダープリセット"
+
+#: inc/views/pluggable/pagination.php:141 inc/views/template_parts.php:76
+#: inc/views/template_parts.php:114
+msgid "Pages:"
+msgstr "固定ページ:"
+
+#: inc/customizer/options/layout_sidebar.php:286
+msgid "edit"
+msgstr "編集"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:265
+msgid "You are customizing the %s Header"
+msgstr "%s ヘッダーをカスタマイズ中"
+
+#: header-footer-grid/Core/Magic_Tags.php:619
+msgid "Checkout URL"
+msgstr "購入手続き URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:615
+msgid "Cart URL"
+msgstr "お買い物カゴ URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:611
+msgid "Product Title"
+msgstr "商品タイトル"
+
+#: header-footer-grid/Core/Magic_Tags.php:607
+msgid "Product Price"
+msgstr "商品価格"
+
+#: header-footer-grid/Core/Magic_Tags.php:604
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: header-footer-grid/Core/Magic_Tags.php:574
+msgid "Current Year"
+msgstr "今年"
+
+#: header-footer-grid/Core/Magic_Tags.php:570
+msgid "Home URL"
+msgstr "ホーム URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:566
+msgid "Site Tagline"
+msgstr "サイトのキャッチフレーズ"
+
+#: header-footer-grid/Core/Magic_Tags.php:562
+msgid "Site Title"
+msgstr "サイトのタイトル"
+
+#: header-footer-grid/Core/Magic_Tags.php:559
+msgid "Global"
+msgstr "全般"
+
+#: header-footer-grid/Core/Magic_Tags.php:536
+msgid "Author URL"
+msgstr "投稿者 URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:532
+msgid "Author Name"
+msgstr "投稿者名"
+
+#: header-footer-grid/Core/Magic_Tags.php:528
+msgid "Author Bio"
+msgstr "投稿者プロフィール"
+
+#: header-footer-grid/Core/Magic_Tags.php:519
+msgid "Archive URL"
+msgstr "アーカイブ URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:515
+msgid "Archive Title"
+msgstr "アーカイブタイトル"
+
+#: header-footer-grid/Core/Magic_Tags.php:511
+msgid "Archive Description"
+msgstr "アーカイブの説明"
+
+#: header-footer-grid/Core/Magic_Tags.php:508
+msgid "Archive"
+msgstr "アーカイブ化"
+
+#: header-footer-grid/Core/Magic_Tags.php:478
+msgid "Current Single URL"
+msgstr "現在の個別 URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:474
+msgid "Current Single Excerpt"
+msgstr "現在の個別抜粋"
+
+#: header-footer-grid/Core/Magic_Tags.php:470
+msgid "Current Single Title"
+msgstr "現在の個別タイトル"
+
+#: header-footer-grid/Core/Magic_Tags.php:467
+msgid "Single"
+msgstr "個別"
+
+#: header-footer-grid/Core/Components/Logo.php:112
+msgid "Display"
+msgstr "表示"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:154
+#: header-footer-grid/Core/Components/CartIcon.php:116
+msgid "Icon Size"
+msgstr "アイコンサイズ"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:470
+#: header-footer-grid/Core/Components/Search.php:306
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:182
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:189
+msgid "Text and Border"
+msgstr "テキストと枠線"
+
+#: inc/customizer/options/buttons.php:92
+msgid "Button Appearance"
+msgstr "ボタンの外観"
+
+#: header-footer-grid/Core/Components/Button.php:142
+#: header-footer-grid/Core/Components/MenuIcon.php:148
+msgid "Appearance"
+msgstr "外観"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:101
+msgid "Menu label"
+msgstr "メニューラベル"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:143
+msgid "Arbitrary HTML code. It supports also shortcodes."
+msgstr "任意の HTML コード。ショートコードもサポートしています。"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:497
+msgid "Alignment"
+msgstr "配置"
+
+#: header-footer-grid/templates/rows.php:77
+msgid "Hide"
+msgstr "非表示"
+
+#: header-footer-grid/templates/rows.php:76
+msgid "Show"
+msgstr "表示"
+
+#: inc/customizer/options/layout_blog.php:254
+msgid "Thumbnail Shadow"
+msgstr "サムネイルの影"
+
+#: inc/customizer/options/typography.php:150
+msgid "Body"
+msgstr "本文"
+
+#: header-footer-grid/Core/Customizer.php:315
+msgid "Search Components"
+msgstr "コンポーネントを検索"
+
+#: header-footer-grid/Core/Customizer/Instructions_Section.php:85
+#: header-footer-grid/Core/Customizer/Instructions_Control.php:87
+msgid "Quick Links"
+msgstr "クイックリンク"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:469
+msgid "Center"
+msgstr "中央"
+
+#: header-footer-grid/Core/Builder/Footer.php:68
+msgid "Change Footer Color"
+msgstr "フッターの色を変更"
+
+#: header-footer-grid/Core/Builder/Footer.php:64
+msgid "Change Copyright"
+msgstr "著作権テキストを変更"
+
+#: header-footer-grid/Core/Builder/Header.php:76
+msgid "Change Menu"
+msgstr "メニューを変更"
+
+#: header-footer-grid/Core/Builder/Header.php:72
+msgid "Change Header Color"
+msgstr "ヘッダーの色を変更"
+
+#: header-footer-grid/Core/Builder/Header.php:68
+msgid "Change Logo"
+msgstr "ロゴを変更"
+
+#: inc/compatibility/pwa.php:63
+msgid "Oops! Something went wrong."
+msgstr "何かがうまくいかなかったようです。"
+
+#: inc/compatibility/pwa.php:50
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr "あなたは現在オフラインのようです。"
+
+#: dashboard/inc/Main.php:384
+msgid "Typekit(Adobe) Fonts"
+msgstr "Typekit (Adobe) フォント"
+
+#: dashboard/inc/Main.php:379
+msgid "LifterLMS Booster"
+msgstr "LifterLMS Booster"
+
+#: dashboard/inc/Main.php:354
+msgid "Page Header Builder"
+msgstr "ページヘッダービルダー"
+
+#: inc/customizer/options/layout_blog.php:463
+msgid "Show Author Avatar"
+msgstr "投稿者アバターを表示"
+
+#: inc/customizer/options/layout_blog.php:444
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:258
+msgid "Author Avatar"
+msgstr "投稿者アバター"
+
+#: dashboard/inc/Main.php:395
+msgid "Simple but effective module to help you navigate back to the top of the really long pages."
+msgstr "非常に長いページの先頭に戻るのに役立つ、シンプルで効果的なモジュール。"
+
+#: dashboard/inc/Main.php:394
+msgid "Scroll To Top"
+msgstr "トップへスクロール"
+
+#: dashboard/inc/Main.php:389
+msgid "White Label"
+msgstr "ホワイトラベル"
+
+#: dashboard/inc/Main.php:344
+msgid "Page Builder Compatibility"
+msgstr "ページビルダー互換性"
+
+#: dashboard/inc/Main.php:339
+msgid "Header/Footer builder"
+msgstr "ヘッダー/フッタービルダー"
+
+#: inc/customizer/controls/upsell_control.php:88
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/customizer/options/upsells.php:95 dashboard/inc/Main.php:369
+msgid "Elementor Booster"
+msgstr "Elementor Booster"
+
+#: inc/customizer/options/upsells.php:94
+msgid "Scroll to Top module"
+msgstr "Scroll to Top モジュール"
+
+#: inc/customizer/options/upsells.php:93
+msgid "White Label module"
+msgstr "ホワイトラベルモジュール"
+
+#: inc/customizer/options/upsells.php:92 dashboard/inc/Main.php:359
+msgid "Custom Layouts"
+msgstr "カスタムレイアウト"
+
+#: inc/customizer/options/upsells.php:91 dashboard/inc/Main.php:374
+msgid "WooCommerce Booster"
+msgstr "WooCommerce Booster"
+
+#: inc/customizer/options/upsells.php:90 dashboard/inc/Main.php:364
+msgid "Blog Booster"
+msgstr "Blog Booster"
+
+#: inc/customizer/options/upsells.php:69
+msgid "View PRO Features"
+msgstr "プロ版の機能を表示"
+
+#: inc/customizer/options/buttons.php:148
+msgid "Border radius"
+msgstr "角丸半径"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:205
+#: header-footer-grid/Core/Components/CartIcon.php:167
+msgid "Hover Color"
+msgstr "ホバーの色"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:184
+#: header-footer-grid/Core/Components/CartIcon.php:141
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:45
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:89
+msgid "Color"
+msgstr "色"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:448
+#: header-footer-grid/Core/Components/Search.php:284
+msgid "Background Color"
+msgstr "背景色"
+
+#: inc/customizer/options/buttons.php:61 assets/js/src/gutenberg.js:19
+msgid "Secondary"
+msgstr "サブ"
+
+#: inc/customizer/options/buttons.php:58 assets/js/src/gutenberg.js:14
+msgid "Primary"
+msgstr "メイン"
+
+#: inc/customizer/options/buttons.php:42
+msgid "Buttons"
+msgstr "ボタン"
+
+#: header-footer-grid/Core/Settings/Manager.php:185
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:274
+msgid "Style"
+msgstr "スタイル"
+
+#: header-footer-grid/Core/Components/SecondNav.php:142
+msgid "Select Menu"
+msgstr "メニューを選択"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:559
+msgid "Margin"
+msgstr "マージン"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:465
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:129
+msgid "Left"
+msgstr "左"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:882
+msgid "Bottom"
+msgstr "下"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:473
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:131
+msgid "Right"
+msgstr "右"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:874
+msgid "Top"
+msgstr "上"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:533
+#: inc/customizer/options/buttons.php:129
+msgid "Padding"
+msgstr "パディング"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1300
+msgid "Slide from Left"
+msgstr "左からスライド"
+
+#: inc/customizer/options/layout_single_product.php:125
+msgid "All"
+msgstr "すべて"
+
+#: inc/customizer/options/layout_single_product.php:92
+msgid "Title"
+msgstr "タイトル"
+
+#: inc/customizer/options/layout_single_product.php:71
+msgid "Exclusive Products"
+msgstr "独占製品"
+
+#: inc/compatibility/lifter.php:314
+msgid "Catalog Sidebar"
+msgstr "カタログサイドバー"
+
+#: header-footer-grid/Core/Builder/Footer.php:125
+msgid "Footer Bottom"
+msgstr "フッター下"
+
+#: header-footer-grid/Core/Builder/Footer.php:121
+msgid "Footer Top"
+msgstr "フッター上"
+
+#: header-footer-grid/Core/Builder/Header.php:185
+msgid "Header Bottom"
+msgstr "ヘッダー下"
+
+#: header-footer-grid/Core/Builder/Header.php:181
+msgid "Header Main"
+msgstr "ヘッダーメイン"
+
+#: header-footer-grid/Core/Builder/Header.php:177
+msgid "Header Top"
+msgstr "ヘッダー上"
+
+#: header-footer-grid/Core/Components/Nav.php:203
+msgid "Last Menu Item"
+msgstr "最後のメニュー項目"
+
+#: header-footer-grid/Core/Components/Nav.php:135
+msgid "Active Item Color"
+msgstr "アクティブな項目の色"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:48
+msgid "Search Icon"
+msgstr "検索アイコン"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:98
+#: header-footer-grid/Core/Components/Search.php:66
+msgid "Placeholder"
+msgstr "プレースホルダー"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:97
+#: header-footer-grid/Core/Components/SearchResponsive.php:670
+#: header-footer-grid/Core/Components/SearchResponsive.php:674
+#: header-footer-grid/Core/Components/Search.php:65
+#: header-footer-grid/Core/Components/Search.php:456
+#: header-footer-grid/Core/Components/Search.php:460
+msgid "Search for..."
+msgstr "検索..."
+
+#: header-footer-grid/Core/Components/Search.php:42
+msgid "Search Form"
+msgstr "検索フォーム"
+
+#: header-footer-grid/Core/Components/Nav.php:156
+#: header-footer-grid/Core/Components/NavFooter.php:108
+#: header-footer-grid/Core/Components/SecondNav.php:109
+msgid "Items Hover Color"
+msgstr "項目のホバー色"
+
+#: header-footer-grid/Core/Components/Nav.php:114
+#: header-footer-grid/Core/Components/NavFooter.php:86
+#: header-footer-grid/Core/Components/SecondNav.php:86
+msgid "Items Color"
+msgstr "項目の色"
+
+#: header-footer-grid/templates/components/component-nav-secondary.php:23
+#: header-footer-grid/Core/Components/SecondNav.php:41
+#: header-footer-grid/Core/Components/SecondNav.php:136
+#: inc/core/front_end.php:73
+msgid "Secondary Menu"
+msgstr "サブメニュー"
+
+#: header-footer-grid/Core/Components/Copyright.php:36
+#: header-footer-grid/Core/Components/Copyright.php:70
+msgid "Copyright"
+msgstr "著作権表示"
+
+#: header-footer-grid/Core/Components/CartIcon.php:46
+msgid "Cart Icon"
+msgstr "お買い物かごアイコン"
+
+#: header-footer-grid/Core/Components/Button.php:101
+msgid "Link"
+msgstr "リンク"
+
+#: header-footer-grid/Core/Components/Button.php:77
+#: header-footer-grid/Core/Components/Button.php:115
+msgid "Button"
+msgstr "ボタン"
+
+#: header-footer-grid/Core/Components/Logo.php:132
+msgid "Show Site Tagline"
+msgstr "サイトのキャッチフレーズを表示"
+
+#: header-footer-grid/Core/Components/Logo.php:147
+msgid "Show Site Title"
+msgstr "サイトタイトルを表示"
+
+#: header-footer-grid/Core/Components/Logo.php:72
+msgid "Logo & Site Identity"
+msgstr "ロゴとサイト基本情報"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:77
+msgid "Menu Icon"
+msgstr "メニューアイコン"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:35
+#: header-footer-grid/Core/Components/CustomHtml.php:142
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/views/pluggable/pagination.php:163
+msgid "next"
+msgstr "次"
+
+#: inc/views/pluggable/pagination.php:158
+msgid "previous"
+msgstr "前"
+
+#: inc/customizer/options/layout_single_post.php:71
+msgid "Post navigation"
+msgstr "投稿ナビゲーション"
+
+#. translators: %s - post type
+#: inc/admin/metabox/manager.php:128 inc/admin/metabox/manager.php:145
+msgid "%s Settings"
+msgstr "%s 設定"
+
+#: inc/core/admin.php:217
+msgid "Return to your dashboard"
+msgstr "ダッシュボードに戻る"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:204
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr "%s のインストールが完了し、使用可能になりました。使用を開始するためのリンク集をご利用ください。"
+
+#: inc/core/admin.php:201
+msgid "Congratulations!"
+msgstr "おめでとうございます !"
+
+#: inc/core/admin.php:223
+msgid "or go to the theme settings"
+msgstr "またはテーマ設定へ移動"
+
+#: inc/core/admin.php:212
+msgid "Try one of our ready to use Starter Sites"
+msgstr "すぐに使えるスターターサイトをお試しください"
+
+#. translators: %s: number of comments
+#: inc/views/partials/post_meta.php:201
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s件のコメント"
+
+#: functions.php:48
+msgid "upgrading PHP to the latest version"
+msgstr "PHP を最新バージョンに更新"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width (Neve)"
+msgstr "全幅ページビルダー用 (Neve)"
+
+#: inc/customizer/options/upsells.php:45 inc/customizer/options/upsells.php:103
+msgid "Get the PRO version!"
+msgstr "PRO バージョンを入手"
+
+#: inc/core/admin.php:234
+msgid "Sites Library"
+msgstr "サイトライブラリ"
+
+#: dashboard/inc/Main.php:128 dashboard/inc/Main.php:129
+msgid "Options"
+msgstr "オプション"
+
+#: inc/views/content_404.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "お探しのコンテンツを見つけられませんでした。検索をお試しください。"
+
+#: inc/views/content_none.php:57
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "検索キーワードに一致するものが見つかりませんでした。 別のキーワードで試してみてください。"
+
+#: inc/views/content_none.php:39
+msgid "Get started here"
+msgstr "ここからはじめましょう"
+
+#. translators: %s is Link to new post
+#: inc/views/content_none.php:34
+msgid "Ready to publish your first post? %s."
+msgstr "最初の投稿の準備ができましたか ? %s。"
+
+#: inc/views/template_parts.php:259
+msgid "Read More"
+msgstr "続きを読む"
+
+#: inc/customizer/options/layout_single_post.php:70
+#: inc/views/partials/post_meta.php:215
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:294
+msgid "Tags"
+msgstr "タグ"
+
+#. translators: number of comments
+#: inc/views/partials/comments.php:178
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "「%2$s」への%1$s件のフィードバック"
+
+#: inc/views/partials/comments.php:157
+msgid "Comment awaiting moderation."
+msgstr "コメントは承認待ちです。"
+
+#: inc/views/partials/comments.php:144
+msgid "Reply"
+msgstr "返信"
+
+#. translators: 1: date, 2: time
+#: inc/views/partials/comments.php:129
+msgid "%1$s at %2$s"
+msgstr "%1$s %2$s"
+
+#: inc/views/partials/comments.php:107 inc/views/partials/comments.php:138
+msgid "Edit"
+msgstr "編集"
+
+#: inc/views/partials/comments.php:105
+msgid "Pingback:"
+msgstr "ピンバック:"
+
+#: inc/views/partials/comments.php:82
+msgid "Next"
+msgstr "次"
+
+#: inc/views/partials/comments.php:79
+msgid "Previous"
+msgstr "前"
+
+#: inc/views/partials/comments.php:74
+msgid "Comments Navigation"
+msgstr "コメントアニメーション"
+
+#: inc/views/partials/comments.php:57
+msgid "Comments are closed."
+msgstr "コメントは受け付けていません。"
+
+#. translators: search result
+#: inc/views/page_header.php:78
+msgid "Search Results for: %s"
+msgstr "「%s」の検索結果"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:38
+#: header-footer-grid/templates/components/component-menu-icon.php:39
+msgid "Toggle Navigation"
+msgstr "ナビゲーションを切り替え"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:28
+#: header-footer-grid/templates/components/component-menu-icon.php:26
+msgid "Navigation Menu"
+msgstr "ナビゲーションメニュー"
+
+#: header-footer-grid/templates/components/component-cart-icon.php:26
+#: header-footer-grid/Core/Customizer.php:273 inc/views/header.php:130
+#: inc/views/layouts/layout_sidebar.php:148
+msgid "Close"
+msgstr "閉じる"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:284
+#: header-footer-grid/Core/Components/Search.php:120
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:257
+msgid "Font Size"
+msgstr "フォントサイズ"
+
+#: inc/customizer/options/typography.php:111
+msgid "Headings"
+msgstr "見出し"
+
+#: header-footer-grid/Core/Settings/Manager.php:177
+#: inc/customizer/options/typography.php:107
+msgid "General"
+msgstr "一般"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:793
+#: inc/customizer/options/main.php:55
+msgid "Typography"
+msgstr "タイポグラフィ"
+
+#: header-footer-grid/Core/Builder/Header.php:38
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:491
+msgid "Header"
+msgstr "ヘッダー"
+
+#: inc/customizer/options/layout_single_post.php:84
+msgid "Elements Order"
+msgstr "要素の順序"
+
+#: inc/customizer/options/layout_sidebar.php:323
+msgid "Content Width (%)"
+msgstr "コンテンツ幅 (%)"
+
+#: inc/customizer/options/layout_sidebar.php:224
+msgid "Sidebar Layout"
+msgstr "サイドバーレイアウト"
+
+#: inc/customizer/options/layout_sidebar.php:165
+msgid "Others"
+msgstr "その他"
+
+#: inc/customizer/options/layout_single_product.php:52
+#: inc/customizer/options/layout_sidebar.php:161
+msgid "Single Product"
+msgstr "個別商品"
+
+#: inc/customizer/options/layout_sidebar.php:160
+msgid "Shop / Archive"
+msgstr "ショップ / アーカイブ"
+
+#: inc/customizer/options/typography.php:306
+#: inc/customizer/options/layout_single_post.php:42
+#: inc/customizer/options/layout_sidebar.php:153
+msgid "Single Post"
+msgstr "個別投稿"
+
+#: inc/customizer/options/layout_sidebar.php:104
+msgid "Enable Advanced Options"
+msgstr "高度なオプションを有効化"
+
+#: inc/customizer/options/layout_sidebar.php:81
+msgid "Sitewide Content Width (%)"
+msgstr "サイト全体のコンテンツ幅 (%)"
+
+#: inc/customizer/options/layout_sidebar.php:62
+msgid "Sitewide Sidebar Layout"
+msgstr "サイト全体のサイドバーレイアウト"
+
+#: header-footer-grid/Core/Components/Nav.php:177
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:123
+msgid "Search"
+msgstr "検索"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:579
+msgid "Section Content"
+msgstr "セクションコンテンツ"
+
+#. translators: %1$s is Theme Name ( Neve ), %2$s is WordPress
+#: header-footer-grid/Core/Components/Copyright.php:64
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Powered by %2$s"
+
+#: header-footer-grid/Core/Components/Button.php:116
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:182
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:189
+msgid "Text"
+msgstr "テキスト"
+
+#: inc/customizer/options/layout_single_product.php:124
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:201
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:233
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:127
+msgid "None"
+msgstr "なし"
+
+#: inc/customizer/options/layout_single_post.php:69
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:293
+msgid "Content"
+msgstr "内容"
+
+#: header-footer-grid/Core/Builder/Footer.php:34
+#: header-footer-grid/Core/Builder/Footer.php:75
+msgid "Footer"
+msgstr "フッター"
+
+#: inc/customizer/options/layout_container.php:112
+msgid "Single Product Container Style"
+msgstr "個別商品コンテナスタイル"
+
+#: inc/customizer/options/layout_container.php:108
+msgid "Shop / Archive Container Style"
+msgstr "ショップ / アーカイブコンテナスタイル"
+
+#: inc/customizer/options/layout_container.php:98
+msgid "Single Post Container Style"
+msgstr "個別投稿コンテナスタイル"
+
+#: inc/customizer/options/layout_container.php:94
+msgid "Blog / Archive Container Style"
+msgstr "ブログ / アーカイブコンテナスタイル"
+
+#: inc/customizer/options/layout_container.php:90
+msgid "Default Container Style"
+msgstr "デフォルトコンテナスタイル"
+
+#: inc/customizer/options/layout_blog.php:298
+msgid "Meta Order"
+msgstr "メタ情報の順序"
+
+#: inc/customizer/options/layout_single_post.php:72
+#: inc/customizer/options/layout_blog.php:286
+#: inc/views/partials/post_meta.php:128
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:295
+msgid "Comments"
+msgstr "コメント"
+
+#: inc/customizer/options/layout_blog.php:285
+#: inc/views/partials/post_meta.php:127
+msgid "Date"
+msgstr "日付"
+
+#: inc/customizer/options/layout_single_product.php:107
+#: inc/customizer/options/layout_blog.php:284
+#: inc/views/partials/post_meta.php:126
+msgid "Category"
+msgstr "カテゴリー"
+
+#: header-footer-grid/Core/Magic_Tags.php:525
+#: inc/customizer/options/layout_blog.php:283
+#: inc/views/partials/post_meta.php:125
+msgid "Author"
+msgstr "投稿者"
+
+#: inc/customizer/options/layout_blog.php:235
+msgid "Post Content Order"
+msgstr "投稿コンテンツの順序"
+
+#: inc/customizer/options/layout_blog.php:224
+msgid "Excerpt"
+msgstr "抜粋"
+
+#: inc/customizer/options/layout_single_post.php:67
+#: inc/customizer/options/layout_blog.php:223
+msgid "Title & Meta"
+msgstr "タイトル & メタ情報"
+
+#: inc/customizer/options/layout_single_post.php:68
+#: inc/customizer/options/layout_blog.php:222
+msgid "Thumbnail"
+msgstr "サムネイル"
+
+#: inc/customizer/options/layout_blog.php:172
+msgid "Infinite Scroll"
+msgstr "無限スクロール"
+
+#: inc/customizer/options/layout_blog.php:171
+msgid "Number"
+msgstr "番号"
+
+#: inc/customizer/options/layout_blog.php:166
+msgid "Post Pagination"
+msgstr "投稿ページネーション"
+
+#: inc/customizer/options/layout_blog.php:138
+msgid "Excerpt Length"
+msgstr "概要の長さ"
+
+#: inc/customizer/options/layout_blog.php:119
+msgid "Enable Masonry"
+msgstr "Masonry の有効化"
+
+#: inc/customizer/options/layout_blog.php:100
+msgid "4 Columns"
+msgstr "4カラム"
+
+#: inc/customizer/options/layout_blog.php:99
+msgid "3 Columns"
+msgstr "3カラム"
+
+#: inc/customizer/options/layout_blog.php:98
+msgid "2 Columns"
+msgstr "2カラム"
+
+#: inc/customizer/options/layout_blog.php:97
+msgid "1 Column"
+msgstr "1カラム"
+
+#: inc/customizer/options/layout_blog.php:95
+msgid "Grid Layout"
+msgstr "グリッドレイアウト"
+
+#: header-footer-grid/Core/Settings/Manager.php:181
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:303
+#: inc/customizer/options/layout_blog.php:66 inc/customizer/options/main.php:51
+msgid "Layout"
+msgstr "レイアウト"
+
+#: inc/customizer/options/typography.php:115
+#: inc/customizer/options/layout_blog.php:66
+msgid "Blog"
+msgstr "ブログ"
+
+#: inc/customizer/options/layout_sidebar.php:152
+#: inc/customizer/options/layout_blog.php:47
+msgid "Blog / Archive"
+msgstr "ブログ / アーカイブ"
+
+#: inc/customizer/options/colors_background.php:42
+msgid "Colors & Background"
+msgstr "色と背景"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:265 assets/js/src/gutenberg.js:9
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:60
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:172
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:151
+msgid "Default"
+msgstr "デフォルト"
+
+#: header-footer-grid/Core/Components/FooterWidgetFour.php:32
+#: inc/core/front_end.php:505
+msgid "Footer Four"
+msgstr "フッター4"
+
+#: header-footer-grid/Core/Components/FooterWidgetThree.php:31
+#: inc/core/front_end.php:504
+msgid "Footer Three"
+msgstr "フッター3"
+
+#: header-footer-grid/Core/Components/FooterWidgetTwo.php:32
+#: inc/core/front_end.php:503
+msgid "Footer Two"
+msgstr "フッター2"
+
+#: header-footer-grid/Core/Components/FooterWidgetOne.php:31
+#: inc/core/front_end.php:502
+msgid "Footer One"
+msgstr "フッター1"
+
+#: inc/core/front_end.php:496
+msgid "Shop Sidebar"
+msgstr "ショップサイドバー"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:385
+#: header-footer-grid/Core/Components/Copyright.php:84
+#: header-footer-grid/Core/Components/CustomHtml.php:158
+#: header-footer-grid/Core/Components/Logo.php:205
+#: inc/customizer/options/colors_background.php:66 inc/core/front_end.php:179
+msgid "Text Color"
+msgstr "文字色"
+
+#: inc/customizer/options/colors_background.php:61 inc/core/front_end.php:175
+msgid "Link Hover Color"
+msgstr "リンクのホバーの色"
+
+#: inc/customizer/options/colors_background.php:56 inc/core/front_end.php:171
+msgid "Link Color"
+msgstr "リンク色"
+
+#: inc/core/front_end.php:167
+msgid "Button Color"
+msgstr "ボタンの色"
+
+#: inc/core/front_end.php:158
+msgid "White"
+msgstr "白"
+
+#: inc/core/front_end.php:149
+msgid "Black"
+msgstr "黒"
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:202
+msgid "With %s, you can choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favorite, and we will take care of everything else."
+msgstr "%s では、特別にデザインされた複数のユニークなデモの中から、ワンクリックでインストールしたいものを選ぶことができます。お好きなものを選んでいただければ、あとはこちらですべて対応します。"
+
+#: header-footer-grid/templates/components/component-nav-footer.php:23
+#: header-footer-grid/Core/Components/NavFooter.php:41
+#: header-footer-grid/Core/Components/NavFooter.php:138
+#: inc/core/front_end.php:72
+msgid "Footer Menu"
+msgstr "フッターメニュー"
+
+#: header-footer-grid/templates/components/component-nav.php:26
+#: header-footer-grid/Core/Components/Nav.php:43
+#: header-footer-grid/Core/Components/Nav.php:221 inc/core/front_end.php:71
+msgid "Primary Menu"
+msgstr "メインメニュー"
+
+#: inc/customizer/options/layout_sidebar.php:43 dashboard/inc/Main.php:325
+msgid "Content / Sidebar"
+msgstr "コンテンツ / サイドバー"
+
+#: dashboard/inc/Main.php:321
+msgid "Footer Options"
+msgstr "フッター設定"
+
+#: dashboard/inc/Main.php:317
+msgid "Blog Layouts"
+msgstr "ブログレイアウト"
+
+#: dashboard/inc/Main.php:313
+msgid "Header Options"
+msgstr "ヘッダーオプション"
+
+#: dashboard/inc/Main.php:309
+msgid "Layout Options"
+msgstr "レイアウトオプション"
+
+#: dashboard/inc/Main.php:305
+msgid "Customize Fonts"
+msgstr "フォントのカスタマイズ"
+
+#: dashboard/inc/Main.php:301
+msgid "Set Colors"
+msgstr "色の設定"
+
+#: dashboard/inc/Main.php:297
+msgid "Upload Logo"
+msgstr "ロゴのアップロード"
+
+#: header-footer-grid/Core/Builder/Header.php:51
+#: header-footer-grid/Core/Builder/Footer.php:47 inc/core/admin.php:246
+msgid "Read full documentation"
+msgstr "ドキュメントの参照"
+
+#. translators: %s - theme name
+#. translators: %s - Theme name
+#: inc/core/admin.php:244 dashboard/inc/Main.php:206
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "もっと詳しい情報が必要な場合は、完全なドキュメンテーションで %s の使い方についてさらに詳しい情報をご覧ください。"
+
+#: inc/core/admin.php:242
+msgid "Documentation"
+msgstr "ドキュメンテーション"
+
+#: header-footer-grid/templates/components/component-cart-icon.php:50
+#: header-footer-grid/Core/Components/Nav.php:182
+#: header-footer-grid/Core/Magic_Tags.php:580 inc/views/header.php:165
+msgid "Cart"
+msgstr "お買い物カゴ"
+
+#: inc/compatibility/woocommerce.php:356
+msgid "Filter"
+msgstr "絞り込み"
+
+#: inc/admin/plugin_install/main.php:176
+msgid "Activating "
+msgstr "有効化中 "
+
+#: inc/admin/plugin_install/main.php:133
+msgid "Jetpack Portfolio"
+msgstr "Jetpack ポートフォリオ"
+
+#: inc/admin/plugin_install/main.php:128
+msgid "Deactivate"
+msgstr "無効化"
+
+#: inc/admin/plugin_install/main.php:113 inc/admin/plugin_install/main.php:133
+msgid "Activate"
+msgstr "有効化"
+
+#: inc/admin/plugin_install/main.php:109
+msgid "Install and activate"
+msgstr "インストールと有効化"
+
+#: inc/admin/metabox/main.php:56 inc/core/front_end.php:495
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:117
+msgid "Sidebar"
+msgstr "サイドバー"
+
+#: inc/admin/metabox/main.php:54
+msgid "No Sidebar"
+msgstr "サイドバーなし"
+
+#: inc/admin/metabox/main.php:53
+msgid "Right Sidebar"
+msgstr "右サイドバー"
+
+#: inc/admin/metabox/main.php:52
+msgid "Left Sidebar"
+msgstr "左サイドバー"
+
+#: inc/customizer/options/layout_container.php:43 inc/admin/metabox/main.php:41
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:141
+msgid "Container"
+msgstr "コンテナ"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:309
+#: inc/customizer/options/layout_container.php:134
+#: inc/admin/metabox/main.php:39
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:165
+msgid "Full Width"
+msgstr "全幅"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:310
+#: inc/customizer/options/layout_container.php:133
+#: inc/admin/metabox/main.php:38
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:158
+msgid "Contained"
+msgstr "余白あり"
+
+#: inc/admin/metabox/main.php:37 inc/admin/metabox/main.php:51
+msgid "Customizer Setting"
+msgstr "カスタマイズ設定"
+
+#: inc/admin/metabox/main.php:88
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:350
+msgid "Disable Footer"
+msgstr "フッターの非表示"
+
+#: inc/admin/metabox/main.php:82
+msgid "Disable Featured Image"
+msgstr "アイキャッチ画像の非表示"
+
+#: inc/admin/metabox/main.php:76
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:364
+msgid "Disable Title"
+msgstr "タイトルの非表示"
+
+#: inc/admin/metabox/main.php:71
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:338
+msgid "Disable Header"
+msgstr "ヘッダーの非表示"
+
+#: inc/admin/metabox/main.php:70
+msgid "Components"
+msgstr "コンポーネント"
+
+#: inc/admin/metabox/main.php:129
+msgid "Enable Individual Content Width"
+msgstr "個別コンテンツ幅の有効化"
+
+#: inc/admin/metabox/main.php:128
+msgid "Content Width"
+msgstr "コンテンツ幅"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:44
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %s. Neve's minimal requirement is PHP 5.4.0."
+msgstr "サポートが終了している古いバージョンの PHP を使用しています。%sを使用するとパフォーマンスと安全性が向上します。Neve の最低要求バージョンは PHP 5.4.0です。"
+
+#. Author URI of the theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/neve/"
+msgstr "https://themeisle.com/themes/neve/"

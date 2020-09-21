@@ -1,0 +1,26 @@
+/*
+ Theme Name:   Mesmerize Child Theme
+ Theme URI:    http://localhost/portfolio/Mesmerize-child-theme/
+ Description:  Mesmerize Child Theme
+ Author:       Kristian Kudsk Sørensen
+ Author URI:   http://localhost/portfolio/
+ Template:     Mesmerize
+ Version:      1.1.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         light, dark, two-columns, right-sidebar, responsive-layout, accessibility-ready
+ Text Domain:  Mesmerize
+*/
+
+.header-top{
+    position: fixed !important;
+    background-color: #4d4d4d !important;
+}
+
+.mesmerize-front-page .navigation-bar.bordered{
+    border-bottom-color: #4d4d4d !important;
+    
+}
+*.shadow-large-black{
+box-shadow: 0px 10px 30px 0 rgba(255, 255, 255, 1), 0 10px 30px rgba(0, 0, 0, 0.08) !important;
+    }

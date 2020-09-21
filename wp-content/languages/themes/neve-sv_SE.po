@@ -1,0 +1,1450 @@
+# Translation of Themes - Neve in Swedish
+# This file is distributed under the same license as the Themes - Neve package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-08-04 21:21:05+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Themes - Neve\n"
+
+#. Description of the theme
+msgid "Neve is a super fast, easily customizable, multi-purpose theme. It’s perfect for blogs, small business, startups, agencies, firms, e-commerce shops (WooCommerce storefront) as well as personal portfolio sites and most types of projects. A fully AMP optimized and responsive theme, Neve will load in mere seconds and adapt perfectly on any viewing device. While it is lightweight and has a minimalist design, the theme is highly extendable, it has a highly SEO optimized code, resulting in top rankings in Google search results. Neve works perfectly with Gutenberg and the most popular page builders (Elementor, Brizy, Beaver Builder, Visual Composer, SiteOrigin, Divi). Neve is also WooCommerce ready, responsive, RTL & translation ready. Look no further. Neve is the perfect theme for you!"
+msgstr "Neve är ett supersnabbt, anpassningsbart, flerfunktionstema. Det är perfekt för bloggar, mindre företag, startups, byråer, företag, e-handelsbutiker (WooCommerce storefront) samt personliga portföljer och de flesta typer av projekt. Ett fullt AMP-optimerat och responsivt tema, Neve kommer att ladda på bara några tusendelar och anpassa sig perfekt på alla slags enheter. Även om det är ett enkel tema med minimalistisk design, så är det mycket utökningsbart, det har en SEO-optimerad kod, vilket resulterar i topplaceringar i Googles sökresultat. Neve fungerar perfekt tillsammans med Gutenberg och de mest populära sidbyggarna (Elementor, SiteOrigin, Beaver Builder, Visual Composer, Divi). Neve är också WooCommerce-redo, responsivt, har stöd för RTL & är översättningsbart. Du behöver inte leta längre. Neve är det perfekta temat för dig!"
+
+#. Theme Name of the theme
+msgid "Neve"
+msgstr "Neve"
+
+#: header-footer-grid/Core/Magic_Tags.php:502
+msgid "Time to read meta"
+msgstr "Meta för lästid"
+
+#: header-footer-grid/Core/Magic_Tags.php:498
+msgid "Comments meta"
+msgstr "Meta för kommentarer"
+
+#: header-footer-grid/Core/Magic_Tags.php:494
+msgid "Category meta"
+msgstr "Meta för kategori"
+
+#: header-footer-grid/Core/Magic_Tags.php:490
+msgid "Date meta"
+msgstr "Meta för datum"
+
+#: header-footer-grid/Core/Magic_Tags.php:486
+msgid "Author meta"
+msgstr "Meta för författare"
+
+#: header-footer-grid/Core/Magic_Tags.php:482
+msgid "Current Post Meta"
+msgstr "Meta för aktuellt inlägg"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:895
+msgid "Vertical Alignment"
+msgstr "Vertikal justering"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:878
+msgid "Middle"
+msgstr "Mitten"
+
+#: inc/customizer/options/typography.php:316
+msgid "Comments reply title"
+msgstr "Rubrik för uppföljningskommentar"
+
+#: inc/customizer/options/typography.php:300
+#: inc/customizer/options/typography.php:311
+msgid "Post meta"
+msgstr "Metadata för inlägg"
+
+#: inc/customizer/options/typography.php:295
+msgid "Post excerpt"
+msgstr "Inläggsutdrag"
+
+#: inc/customizer/options/typography.php:290
+msgid "Blog Archive"
+msgstr "Bloggarkiv"
+
+#: inc/customizer/options/typography.php:289
+#: inc/customizer/options/typography.php:305
+msgid "Post title"
+msgstr "Inläggsrubrik"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:244
+#: header-footer-grid/Core/Components/Search.php:80
+msgid "Height"
+msgstr "Höjd"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:227
+msgid "Search Field"
+msgstr "Sökfält"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:135
+msgid "Icon"
+msgstr "Ikon"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:119
+msgid "Float Above Header"
+msgstr "Flytande ovan sidhuvudet"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:118
+msgid "Minimal"
+msgstr "Minimalt"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:117
+msgid "Canvas"
+msgstr "Innehållsyta"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1295
+#: header-footer-grid/Core/Components/SearchResponsive.php:113
+msgid "Open Behaviour"
+msgstr "Öppningsbeteende"
+
+#: inc/core/front_end.php:191
+msgid "Button Hover Color"
+msgstr "Knappens hovringsfärg"
+
+#: inc/core/front_end.php:187
+msgid "Button Hover text color"
+msgstr "Textfärg vid hovring över knapp"
+
+#: inc/core/front_end.php:183
+msgid "Button text color"
+msgstr "Knappens textfärg"
+
+#. translators: 1 - Theme Name (Neve), 2 - Plugin Name (Neve Pro)
+#: dashboard/inc/Main.php:282
+msgid "We recommend that both %1$s and %2$s are updated to the latest version to ensure optimal intercompatibility."
+msgstr "För optimal kompabilitet rekommenderar vi att både %1$s och %2$s uppdateras till den senaste versionen."
+
+#. translators: s - Pro plugin name (Neve Pro)
+#: dashboard/inc/Main.php:264
+msgid "New plugin update for %1$s! Please update to %2$s."
+msgstr "Ny uppdatering för tillägget %1$s! Vänligen uppdatera till %2$s."
+
+#: dashboard/inc/Main.php:252 dashboard/inc/Main.php:273
+msgid "Update Now"
+msgstr "Uppdatera nu"
+
+#. translators: s - theme name (Neve).
+#: dashboard/inc/Main.php:247
+msgid "New theme update for %1$s! Please update to %2$s."
+msgstr "Ny uppdatering för temat %1$s! Vänligen uppdatera till %2$s."
+
+#. translators: store name (Themeisle)
+#: dashboard/inc/Main.php:214
+msgid "Enter your license from %1$s purchase history in order to get plugin updates"
+msgstr "Ange din licens från köphistoriken hos %1$s för att få uppdateringar av tillägg"
+
+#. translators: %s - "Neve Pro Addon"
+#: dashboard/inc/Main.php:210
+msgid "Please update %s to the latest version and then refresh this page to have access to the options."
+msgstr "Vänligen uppdatera %s till den senaste versionen. Uppdatera sedan denna sida för att få tillgång till alternativen."
+
+#. translators: %s - "Neve Pro Addon"
+#: dashboard/inc/Main.php:208
+msgid "%s license"
+msgstr "%s-license"
+
+#. translators: %s - "Public roadmap"
+#: dashboard/inc/Main.php:200
+msgid "public roadmap"
+msgstr "offentlig planering"
+
+#. translators: %s - "Public roadmap"
+#: dashboard/inc/Main.php:200
+msgid "Share opinions, ask questions and help each other on our Neve community! Keep up with what we’re working on and vote to help us prioritize on our %s."
+msgstr "Dela dina åsikter, ställ frågor och hjälp varandra i communityn för Neve! Håll dig uppdaterad med senaste nytt och rösta på saker att prioritera i vår %s för temat."
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:196
+msgid "%s Options"
+msgstr "Alternativ för %s"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:358
+#: header-footer-grid/Core/Components/Search.php:194
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:144
+msgid "Border Width"
+msgstr "Rambredd"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:415
+#: header-footer-grid/Core/Components/Search.php:251
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:118
+msgid "Border Radius"
+msgstr "Kantradie"
+
+#: inc/customizer/options/layout_container.php:63
+msgid "Container width"
+msgstr "Containerbredd"
+
+#: header-footer-grid/Core/Components/Logo.php:162
+msgid "Logo max width"
+msgstr "Max bredd för logotyp"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:325
+msgid "Row height"
+msgstr "Radhöjd"
+
+#: header-footer-grid/Core/Magic_Tags.php:595
+msgid "Currency Symbol"
+msgstr "Valutasymbol"
+
+#: header-footer-grid/Core/Magic_Tags.php:591
+msgid "Currency Name"
+msgstr "Valutanamn"
+
+#: header-footer-grid/Core/Magic_Tags.php:587
+msgid "Total"
+msgstr "Totalt"
+
+#: header-footer-grid/Core/Magic_Tags.php:583
+msgid "Total + Currency Symbol"
+msgstr "Totalt + valutasymbol"
+
+#: header-footer-grid/Core/Components/Logo.php:192
+msgid "Disable Homepage Link"
+msgstr "Ta bort länk för startsida"
+
+#: header-footer-grid/Core/Magic_Tags.php:553
+msgid "User Email"
+msgstr "Användarens e-postadress"
+
+#: header-footer-grid/Core/Magic_Tags.php:549
+msgid "Display Name"
+msgstr "Visningsnamn"
+
+#: header-footer-grid/Core/Magic_Tags.php:545
+msgid "User Nice Name"
+msgstr "Användarens smeknamn"
+
+#: header-footer-grid/Core/Magic_Tags.php:542
+msgid "Current User"
+msgstr "Nuvarande användare"
+
+#: header-footer-grid/Core/Components/Nav.php:236
+#: header-footer-grid/Core/Components/NavFooter.php:151
+#: header-footer-grid/Core/Components/SecondNav.php:154
+msgid "Items Spacing (px)"
+msgstr "Objektmellanrum (px)"
+
+#: header-footer-grid/Core/Components/Nav.php:95
+#: header-footer-grid/Core/Components/NavFooter.php:68
+#: header-footer-grid/Core/Components/SecondNav.php:68
+msgid "Hover Skin Mode"
+msgstr "Stil för musaktivitet"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:479
+msgid "Justify"
+msgstr "Marginaljustera"
+
+#: header-footer-grid/Core/Builder/Header.php:97
+#: header-footer-grid/Core/Builder/Header.php:107
+msgid "Header Presets"
+msgstr "Standard bildsidhuvuden"
+
+#: inc/views/pluggable/pagination.php:141 inc/views/template_parts.php:76
+#: inc/views/template_parts.php:114
+msgid "Pages:"
+msgstr "Sidor:"
+
+#: inc/customizer/options/layout_sidebar.php:286
+msgid "edit"
+msgstr "redigera"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:265
+msgid "You are customizing the %s Header"
+msgstr "Du anpassar sidhuvudet %s"
+
+#: header-footer-grid/Core/Magic_Tags.php:619
+msgid "Checkout URL"
+msgstr "Adress för kassasida"
+
+#: header-footer-grid/Core/Magic_Tags.php:615
+msgid "Cart URL"
+msgstr "Adress för kundvagn"
+
+#: header-footer-grid/Core/Magic_Tags.php:611
+msgid "Product Title"
+msgstr "Produktrubrik"
+
+#: header-footer-grid/Core/Magic_Tags.php:607
+msgid "Product Price"
+msgstr "Produktpris"
+
+#: header-footer-grid/Core/Magic_Tags.php:604
+msgid "WooCommerce"
+msgstr "WooCommerce"
+
+#: header-footer-grid/Core/Magic_Tags.php:574
+msgid "Current Year"
+msgstr "Nuvarande år"
+
+#: header-footer-grid/Core/Magic_Tags.php:570
+msgid "Home URL"
+msgstr "Hem-URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:566
+msgid "Site Tagline"
+msgstr "Webbplatsslogan"
+
+#: header-footer-grid/Core/Magic_Tags.php:562
+msgid "Site Title"
+msgstr "Webbplatsrubrik"
+
+#: header-footer-grid/Core/Magic_Tags.php:559
+msgid "Global"
+msgstr "Global"
+
+#: header-footer-grid/Core/Magic_Tags.php:536
+msgid "Author URL"
+msgstr "Författar-URL"
+
+#: header-footer-grid/Core/Magic_Tags.php:532
+msgid "Author Name"
+msgstr "Författarnamn"
+
+#: header-footer-grid/Core/Magic_Tags.php:528
+msgid "Author Bio"
+msgstr "Författarens bio"
+
+#: header-footer-grid/Core/Magic_Tags.php:519
+msgid "Archive URL"
+msgstr "Adress för arkiv"
+
+#: header-footer-grid/Core/Magic_Tags.php:515
+msgid "Archive Title"
+msgstr "Arkivrubrik"
+
+#: header-footer-grid/Core/Magic_Tags.php:511
+msgid "Archive Description"
+msgstr "Beskrivning för arkiv"
+
+#: header-footer-grid/Core/Magic_Tags.php:508
+msgid "Archive"
+msgstr "Arkiv"
+
+#: header-footer-grid/Core/Magic_Tags.php:478
+msgid "Current Single URL"
+msgstr "Aktuell adress för enskild post"
+
+#: header-footer-grid/Core/Magic_Tags.php:474
+msgid "Current Single Excerpt"
+msgstr "Aktuellt utdrag för enskild post"
+
+#: header-footer-grid/Core/Magic_Tags.php:470
+msgid "Current Single Title"
+msgstr "Rubrik för enskild post"
+
+#: header-footer-grid/Core/Magic_Tags.php:467
+msgid "Single"
+msgstr "Enskild post"
+
+#: header-footer-grid/Core/Components/Logo.php:112
+msgid "Display"
+msgstr "Visa"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:154
+#: header-footer-grid/Core/Components/CartIcon.php:116
+msgid "Icon Size"
+msgstr "Ikonstorlek"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:470
+#: header-footer-grid/Core/Components/Search.php:306
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:182
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:189
+msgid "Text and Border"
+msgstr "Text och ramar"
+
+#: inc/customizer/options/buttons.php:92
+msgid "Button Appearance"
+msgstr "Knappstil"
+
+#: header-footer-grid/Core/Components/Button.php:142
+#: header-footer-grid/Core/Components/MenuIcon.php:148
+msgid "Appearance"
+msgstr "Utseende"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:101
+msgid "Menu label"
+msgstr "Menyetikett"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:143
+msgid "Arbitrary HTML code. It supports also shortcodes."
+msgstr "Godtycklig HTML-kod. Har även stöd för kortkoder."
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:497
+msgid "Alignment"
+msgstr "Justering"
+
+#: header-footer-grid/templates/rows.php:77
+msgid "Hide"
+msgstr "Dölj"
+
+#: header-footer-grid/templates/rows.php:76
+msgid "Show"
+msgstr "Visa"
+
+#: header-footer-grid/templates/rows.php:73
+#: header-footer-grid/Core/Builder/Header.php:189
+msgid "Mobile menu content"
+msgstr "Innehåll för mobilmeny"
+
+#: inc/customizer/options/layout_blog.php:254
+msgid "Thumbnail Shadow"
+msgstr "Skugga för miniatyr"
+
+#: inc/customizer/options/typography.php:150
+msgid "Body"
+msgstr "Innehåll"
+
+#: header-footer-grid/Core/Customizer.php:315
+msgid "Search Components"
+msgstr "Sökkomponenter"
+
+#: header-footer-grid/Core/Customizer/Instructions_Section.php:85
+#: header-footer-grid/Core/Customizer/Instructions_Control.php:87
+msgid "Quick Links"
+msgstr "Snabblänkar"
+
+#: header-footer-grid/Core/Components/Logo.php:73
+msgid "Display your company logo here or simply use words to describe your business."
+msgstr "Visa din logotyp här eller ange helt enkelt ord som beskriver din verksamhet."
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:469
+msgid "Center"
+msgstr "Centrerat"
+
+#: header-footer-grid/Core/Builder/Footer.php:68
+msgid "Change Footer Color"
+msgstr "Ändra färg för sidfot"
+
+#: header-footer-grid/Core/Builder/Footer.php:64
+msgid "Change Copyright"
+msgstr "Ändra copyright"
+
+#: header-footer-grid/Core/Builder/Header.php:76
+msgid "Change Menu"
+msgstr "Ändra meny"
+
+#: header-footer-grid/Core/Builder/Header.php:72
+msgid "Change Header Color"
+msgstr "Ändra färg för sidhuvud"
+
+#: header-footer-grid/Core/Builder/Header.php:68
+msgid "Change Logo"
+msgstr "Ändra logotyp"
+
+#. translators: 1: builder, 2: builder symbol
+#: header-footer-grid/Core/Builder/Header.php:61
+#: header-footer-grid/Core/Builder/Footer.php:57
+msgid "Welcome to the %1$s builder! Click the %2$s button to add a new component or follow the Quick Links."
+msgstr "Välkommen till byggaren %1$s! Klicka på knappen %2$s för att lägga till en ny komponent eller följ snabblänkarna."
+
+#: inc/compatibility/pwa.php:63
+msgid "Oops! Something went wrong."
+msgstr "Hoppsan, något gick fel."
+
+#: inc/compatibility/pwa.php:50
+msgid "Oops! It looks like you&#8217;re offline."
+msgstr "Hoppsan, det ser ut som du är offline."
+
+#: dashboard/inc/Main.php:385
+msgid "The module allows for an easy way of enabling new awesome Adobe (previous Typekit) Fonts in Neve's Typography options."
+msgstr "Modulen tillåter dig att enkelt ange nya grymma typsnitt från Adobe (tidigare Typekit) Fonts under Neves inställningar för typografi."
+
+#: dashboard/inc/Main.php:384
+msgid "Typekit(Adobe) Fonts"
+msgstr "Typekit (Adobe) Fonts"
+
+#: dashboard/inc/Main.php:380
+msgid "Make your LifterLMS pages look stunning with our PRO design options. Specially created to help you set up your online courses with minimum customizations."
+msgstr "Få dina LifterLMS-sidor att se perfekta ut med våra designalternativ för Pro-versionen. Speciellt skapat för att hjälpa dig att snabbt få upp dina kurser med minsta möjliga jobb."
+
+#: dashboard/inc/Main.php:379
+msgid "LifterLMS Booster"
+msgstr "LifterLMS Booster"
+
+#: dashboard/inc/Main.php:360
+msgid "Powerful Custom Layouts builder which allows you to easily create your own header, footer or custom content on any of the hook locations available in the theme."
+msgstr "Kraftfull byggare för anpassade layouter som tillåter dig att enkelt skapa ditt egna sidhuvud, sidfot eller anpassade innehåll på avsedda platser tillgängliga i temat."
+
+#: dashboard/inc/Main.php:355
+msgid "The Page Header is the horizontal area that sits directly below the header and contains the page/post title. Easily design an attractive Page Header area using our dedicated builder."
+msgstr "Sidans sidhuvudet är den horisontala del som visas direkt under webbplatsens sidhuvud och som innehåller sidans/inläggets rubrik. Designa enkelt attraktiva sidhuvuden för sidor med vår byggare."
+
+#: dashboard/inc/Main.php:354
+msgid "Page Header Builder"
+msgstr "Byggare för sidhuvud"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:361
+msgid "Row Background"
+msgstr "Radbakgrund"
+
+#. translators: %s link to documentation
+#: header-footer-grid/Core/Builder/Header.php:45
+#: header-footer-grid/Core/Builder/Footer.php:41
+msgid "Design your %1$s by dragging, dropping and resizing all the elements in real-time. %2$s."
+msgstr "Designa ditt %1$s genom att dra, släppa och omforma alla element i realtid. %2$s."
+
+#: inc/views/partials/post_meta.php:163
+msgid "by"
+msgstr "av"
+
+#: inc/customizer/options/layout_blog.php:463
+msgid "Show Author Avatar"
+msgstr "Visa profilbild för författare"
+
+#: inc/customizer/options/layout_blog.php:444
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:258
+msgid "Author Avatar"
+msgstr "Profilbild för författare"
+
+#: dashboard/inc/Main.php:395
+msgid "Simple but effective module to help you navigate back to the top of the really long pages."
+msgstr "En enkel men effektiv modul för att hjälpa till att snabbt navigera sig högst upp på sidan, speciellt användbart för långa sidor."
+
+#: dashboard/inc/Main.php:394
+msgid "Scroll To Top"
+msgstr "Rulla till toppen"
+
+#: dashboard/inc/Main.php:390
+msgid "For any developer or agency out there building websites for their own clients, we've made it easy to present the theme as your own."
+msgstr "För utvecklare eller webbyråer som bygger webbplatser för sina klienter så har vi gjort det enkelt att att presentera temat som ditt egna."
+
+#: dashboard/inc/Main.php:389
+msgid "White Label"
+msgstr "Branding"
+
+#: dashboard/inc/Main.php:375
+msgid "Wishlist, quick view, video products, advanced reviews, multiple dedicated layouts and many more."
+msgstr "Önskelista, snabbvy, videoprodukter, avancerade omdömen, flera dedikerade layouter och mycket mer."
+
+#: dashboard/inc/Main.php:375
+msgid "Empower your online store with awesome new features, specially designed for a smooth WooCommerce integration."
+msgstr "Boosta din onlinebutik med grymma nya funktioner, speciellt designade för smidig integration med WooCommerce."
+
+#: dashboard/inc/Main.php:365
+msgid "Sharing, custom article sorting, comments integrations, number of minutes needed to read an article and many more."
+msgstr "Delning, anpassad artikelfiltrering, kommentarsintegrering, minuter som krävs för att läsa en artikel och mycket mer."
+
+#: dashboard/inc/Main.php:365
+msgid "Give a huge boost to your entire blogging experience with features specially designed for increased user experience."
+msgstr "Ge din blogg en riktig boost med funktioner speciellt designade för att höja användarupplevelsen för besökare."
+
+#: dashboard/inc/Main.php:350
+msgid "Take the header builder to a new level with new awesome components: socials, contact, breadcrumbs, language switcher, multiple HTML, sticky and transparent menu, page header builder and many more."
+msgstr "Ta möjligheten att utveckla ditt sidhuvud till en helt ny nivå med dessa nya komponenter: sociala länkar, kontaktmöjligheter, brödsmulor, språkväljare, utökad HTML, klistrad och transparent meny, anpassare för sidhuvud och mycket mer."
+
+#: dashboard/inc/Main.php:345
+msgid "Neve is fully compatible with Gutenberg, the new WordPress editor and for all of you page builder fans, Neve has full compatibility with Elementor, Beaver Builder, and all the other popular page builders."
+msgstr "Neve är fullt kompatibelt med Gutenberg, den nya redigeraren i WordPress och för alla fans av sidbyggare har Neve fullt stöd för Elementor, Beaver Builder och alla andra populära sidbyggare."
+
+#: dashboard/inc/Main.php:344
+msgid "Page Builder Compatibility"
+msgstr "Kompatibilitet med sidbyggare"
+
+#: dashboard/inc/Main.php:340
+msgid "Easily build your header and footer by dragging and dropping all the important elements in the real-time WordPress Customizer. More advanced options are available in PRO."
+msgstr "Bygg enkelt upp ditt sidhuvud genom att dra och släppa alla element du vill använda i WordPress anpassare. Fler avancerade alternativ är tillgängliga i PRO-versionen."
+
+#: dashboard/inc/Main.php:339
+msgid "Header/Footer builder"
+msgstr "Anpassare för sidhuvud/sidfot"
+
+#: inc/customizer/controls/upsell_control.php:88
+msgid "PRO"
+msgstr "PRO"
+
+#: inc/customizer/options/upsells.php:100 dashboard/inc/Main.php:370
+msgid "Leverage the true flexibility of Elementor with powerful addons and templates that you can import with just one click."
+msgstr "Utnyttja Elementors sanna flexibilitet med kraftfulla tillägg och mallar som du kan importera med bara ett klick."
+
+#: inc/customizer/options/upsells.php:99
+msgid "Easily create custom headers and footers as well as adding your own custom code or content in any of the hooks locations."
+msgstr "Skapa enkelt anpassad sidhuvud och sidfot, lägg till din egna anpassade kod eller innehåll på anslutna platser."
+
+#: inc/customizer/options/upsells.php:46 inc/customizer/options/upsells.php:98
+msgid "Add new awesome header components, sticky and transparent menu, socials, and many more."
+msgstr "Lägg till nya grymma komponenter för sidhuvudet, klistrad och transparent meny, sociala ikoner och mycket mer."
+
+#: inc/customizer/options/upsells.php:95 dashboard/inc/Main.php:369
+msgid "Elementor Booster"
+msgstr "Boosters för Elementor"
+
+#: inc/customizer/options/upsells.php:94
+msgid "Scroll to Top module"
+msgstr "Modul för Till toppen-knapp"
+
+#: inc/customizer/options/upsells.php:93
+msgid "White Label module"
+msgstr "Modul för anpassad branding"
+
+#: inc/customizer/options/upsells.php:92 dashboard/inc/Main.php:359
+msgid "Custom Layouts"
+msgstr "Anpassade layouter"
+
+#: inc/customizer/options/upsells.php:91 dashboard/inc/Main.php:374
+msgid "WooCommerce Booster"
+msgstr "Boosters för WooCommerce"
+
+#: inc/customizer/options/upsells.php:90 dashboard/inc/Main.php:364
+msgid "Blog Booster"
+msgstr "Boosters för Blogg"
+
+#: inc/customizer/options/upsells.php:89 dashboard/inc/Main.php:349
+msgid "Header Booster"
+msgstr "Boosters för Sidhuvud"
+
+#: inc/customizer/options/upsells.php:69
+msgid "View PRO Features"
+msgstr "Visa funktioner i PRO-version"
+
+#: inc/customizer/options/buttons.php:148
+msgid "Border radius"
+msgstr "Rundning för ram"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:205
+#: header-footer-grid/Core/Components/CartIcon.php:167
+msgid "Hover Color"
+msgstr "Hovringsfärg"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:184
+#: header-footer-grid/Core/Components/CartIcon.php:141
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:45
+#: inc/customizer/controls/react/src/background/BackgroundComponent.js:89
+msgid "Color"
+msgstr "Färg"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:448
+#: header-footer-grid/Core/Components/Search.php:284
+msgid "Background Color"
+msgstr "Bakgrundsfärg"
+
+#: inc/customizer/options/buttons.php:61 assets/js/src/gutenberg.js:19
+msgid "Secondary"
+msgstr "Sekundär"
+
+#: inc/customizer/options/buttons.php:58 assets/js/src/gutenberg.js:14
+msgid "Primary"
+msgstr "Primär"
+
+#: inc/customizer/options/buttons.php:42
+msgid "Buttons"
+msgstr "Knappar"
+
+#: header-footer-grid/Core/Settings/Manager.php:185
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:274
+msgid "Style"
+msgstr "Stil"
+
+#: header-footer-grid/Core/Components/SecondNav.php:142
+msgid "Select Menu"
+msgstr "Välj meny"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:559
+msgid "Margin"
+msgstr "Marginal"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:465
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:129
+msgid "Left"
+msgstr "Vänster"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:882
+msgid "Bottom"
+msgstr "Botten"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:473
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:131
+msgid "Right"
+msgstr "Höger"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:874
+msgid "Top"
+msgstr "Toppen"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:533
+#: inc/customizer/options/buttons.php:129
+msgid "Padding"
+msgstr "Padding"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:1300
+msgid "Slide from Left"
+msgstr "Dra från vänster"
+
+#: inc/customizer/options/layout_single_product.php:125
+msgid "All"
+msgstr "Alla"
+
+#: inc/customizer/options/layout_single_product.php:92
+msgid "Title"
+msgstr "Rubrik"
+
+#: inc/customizer/options/layout_single_product.php:71
+msgid "Exclusive Products"
+msgstr "Exklusiva produkter"
+
+#: inc/compatibility/lifter.php:314
+msgid "Catalog Sidebar"
+msgstr "Sidopanel katalog"
+
+#: header-footer-grid/Core/Builder/Footer.php:125
+msgid "Footer Bottom"
+msgstr "Sidfot botten"
+
+#: header-footer-grid/Core/Builder/Footer.php:121
+msgid "Footer Top"
+msgstr "Sidfot topp"
+
+#: header-footer-grid/Core/Builder/Header.php:185
+msgid "Header Bottom"
+msgstr "Sidhuvud botten"
+
+#: header-footer-grid/Core/Builder/Header.php:181
+msgid "Header Main"
+msgstr "Sidhuvud primär"
+
+#: header-footer-grid/Core/Builder/Header.php:177
+msgid "Header Top"
+msgstr "Sidhuvud topp"
+
+#: header-footer-grid/Core/Components/Nav.php:203
+msgid "Last Menu Item"
+msgstr "Sista menyval"
+
+#: header-footer-grid/Core/Components/Nav.php:135
+msgid "Active Item Color"
+msgstr "Färg för aktivt val"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:48
+msgid "Search Icon"
+msgstr "Sökikon"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:98
+#: header-footer-grid/Core/Components/Search.php:66
+msgid "Placeholder"
+msgstr "Platshållare"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:97
+#: header-footer-grid/Core/Components/SearchResponsive.php:670
+#: header-footer-grid/Core/Components/SearchResponsive.php:674
+#: header-footer-grid/Core/Components/Search.php:65
+#: header-footer-grid/Core/Components/Search.php:456
+#: header-footer-grid/Core/Components/Search.php:460
+msgid "Search for..."
+msgstr "Sök..."
+
+#: header-footer-grid/Core/Components/Search.php:42
+msgid "Search Form"
+msgstr "Sökformulär"
+
+#: header-footer-grid/Core/Components/Nav.php:156
+#: header-footer-grid/Core/Components/NavFooter.php:108
+#: header-footer-grid/Core/Components/SecondNav.php:109
+msgid "Items Hover Color"
+msgstr "Färg vid musaktivitet"
+
+#: header-footer-grid/Core/Components/Nav.php:114
+#: header-footer-grid/Core/Components/NavFooter.php:86
+#: header-footer-grid/Core/Components/SecondNav.php:86
+msgid "Items Color"
+msgstr "Färg för menyval"
+
+#: header-footer-grid/templates/components/component-nav-secondary.php:23
+#: header-footer-grid/Core/Components/SecondNav.php:41
+#: header-footer-grid/Core/Components/SecondNav.php:136
+#: inc/core/front_end.php:73
+msgid "Secondary Menu"
+msgstr "Sekundär meny"
+
+#: header-footer-grid/Core/Components/Copyright.php:36
+#: header-footer-grid/Core/Components/Copyright.php:70
+msgid "Copyright"
+msgstr "Upphovsrätt"
+
+#: header-footer-grid/Core/Components/CartIcon.php:46
+msgid "Cart Icon"
+msgstr "Varukorgsikon"
+
+#: header-footer-grid/Core/Components/Button.php:101
+msgid "Link"
+msgstr "Länk"
+
+#: header-footer-grid/Core/Components/Button.php:77
+#: header-footer-grid/Core/Components/Button.php:115
+msgid "Button"
+msgstr "Knapp"
+
+#: header-footer-grid/Core/Components/Logo.php:132
+msgid "Show Site Tagline"
+msgstr "Visa webbplatsslogan"
+
+#: header-footer-grid/Core/Components/Logo.php:147
+msgid "Show Site Title"
+msgstr "Visa webbplatsrubrik"
+
+#: header-footer-grid/Core/Components/Logo.php:72
+msgid "Logo & Site Identity"
+msgstr "Logga och webbplatsidentitet"
+
+#: header-footer-grid/Core/Components/MenuIcon.php:77
+msgid "Menu Icon"
+msgstr "Menyikon"
+
+#: header-footer-grid/Core/Components/CustomHtml.php:35
+#: header-footer-grid/Core/Components/CustomHtml.php:142
+msgid "HTML"
+msgstr "HTML"
+
+#: inc/views/pluggable/pagination.php:163
+msgid "next"
+msgstr "nästa"
+
+#: inc/views/pluggable/pagination.php:158
+msgid "previous"
+msgstr "föregående"
+
+#: inc/customizer/options/layout_single_post.php:71
+msgid "Post navigation"
+msgstr "Inläggsnavigering"
+
+#. translators: %s - post type
+#: inc/admin/metabox/manager.php:128 inc/admin/metabox/manager.php:145
+msgid "%s Settings"
+msgstr "Inställningar för %s"
+
+#: inc/core/admin.php:217
+msgid "Return to your dashboard"
+msgstr "Tillbaka till din adminpanel"
+
+#. translators: %s - theme name
+#: inc/core/admin.php:204
+msgid "%s is now installed and ready to use. We've assembled some links to get you started."
+msgstr "Nu är %s installerat och klart att användas. Här är några länkar för att hjälpa dig igång."
+
+#: inc/core/admin.php:201
+msgid "Congratulations!"
+msgstr "Grattis!"
+
+#: inc/core/admin.php:223
+msgid "or go to the theme settings"
+msgstr "eller gå till inställningarna för temat"
+
+#: inc/core/admin.php:212
+msgid "Try one of our ready to use Starter Sites"
+msgstr "Prova någon av startermallar som kan användas direkt"
+
+#. translators: %s: number of comments
+#: inc/views/partials/post_meta.php:201
+msgid "%s Comment"
+msgid_plural "%s Comments"
+msgstr[0] "%s kommentar"
+msgstr[1] "%s kommentarer"
+
+#: functions.php:48
+msgid "upgrading PHP to the latest version"
+msgstr "uppgradera PHP till den senaste versionen"
+
+#. Template Name of the theme
+msgid "Page Builder Full Width (Neve)"
+msgstr "Sidbyggare full bredd (Neve)"
+
+#: inc/customizer/options/upsells.php:45 inc/customizer/options/upsells.php:103
+msgid "Get the PRO version!"
+msgstr "Skaffa PRO-versionen!"
+
+#: inc/core/admin.php:234
+msgid "Sites Library"
+msgstr "Webbplatsbibliotek"
+
+#: dashboard/inc/Main.php:128 dashboard/inc/Main.php:129
+msgid "Options"
+msgstr "Alternativ"
+
+#: inc/views/content_404.php:37
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Det verkar som vi inte kan hitta det du letar efter. Du kanske ska testa sökfunktionen."
+
+#: inc/views/content_none.php:57
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Tyvärr, men inget matchade dina söktermer. Försök igen med några andra nyckelord."
+
+#: inc/views/content_none.php:39
+msgid "Get started here"
+msgstr "Kom igång här"
+
+#. translators: %s is Link to new post
+#: inc/views/content_none.php:34
+msgid "Ready to publish your first post? %s."
+msgstr "Redo att publicera ditt första inlägg? %s."
+
+#: inc/views/template_parts.php:259
+msgid "Read More"
+msgstr "Läs mer"
+
+#: inc/customizer/options/layout_single_post.php:70
+#: inc/views/partials/post_meta.php:215
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:294
+msgid "Tags"
+msgstr "Etiketter"
+
+#. translators: number of comments
+#: inc/views/partials/comments.php:178
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] "%1$s kommentar till &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s kommentarer till &ldquo;%2$s&rdquo;"
+
+#: inc/views/partials/comments.php:157
+msgid "Comment awaiting moderation."
+msgstr "Kommentaren inväntar granskning."
+
+#: inc/views/partials/comments.php:144
+msgid "Reply"
+msgstr "Svara"
+
+#. translators: 1: date, 2: time
+#: inc/views/partials/comments.php:129
+msgid "%1$s at %2$s"
+msgstr "%1$s kl %2$s"
+
+#: inc/views/partials/comments.php:107 inc/views/partials/comments.php:138
+msgid "Edit"
+msgstr "Redigera"
+
+#: inc/views/partials/comments.php:105
+msgid "Pingback:"
+msgstr "Pingback:"
+
+#: inc/views/partials/comments.php:82
+msgid "Next"
+msgstr "Nästa"
+
+#: inc/views/partials/comments.php:79
+msgid "Previous"
+msgstr "Föregående"
+
+#: inc/views/partials/comments.php:74
+msgid "Comments Navigation"
+msgstr "Kommentarsnavigering"
+
+#: inc/views/partials/comments.php:57
+msgid "Comments are closed."
+msgstr "Kommentarer är stängda."
+
+#. translators: search result
+#: inc/views/page_header.php:78
+msgid "Search Results for: %s"
+msgstr "Sökresultat för: %s"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:38
+#: header-footer-grid/templates/components/component-menu-icon.php:39
+msgid "Toggle Navigation"
+msgstr "Slå på/av meny"
+
+#: header-footer-grid/templates/row-wrapper-mobile.php:28
+#: header-footer-grid/templates/components/component-menu-icon.php:26
+msgid "Navigation Menu"
+msgstr "Navigeringsmeny"
+
+#: header-footer-grid/templates/components/component-cart-icon.php:26
+#: header-footer-grid/Core/Customizer.php:273 inc/views/header.php:130
+#: inc/views/layouts/layout_sidebar.php:148
+msgid "Close"
+msgstr "Stäng"
+
+#: header-footer-grid/Core/Components/SearchResponsive.php:284
+#: header-footer-grid/Core/Components/Search.php:120
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:257
+msgid "Font Size"
+msgstr "Textstorlek"
+
+#: inc/customizer/options/typography.php:111
+msgid "Headings"
+msgstr "Rubriker"
+
+#: header-footer-grid/Core/Settings/Manager.php:177
+#: inc/customizer/options/typography.php:107
+msgid "General"
+msgstr "Allmänt"
+
+#: header-footer-grid/Core/Components/Abstract_Component.php:793
+#: inc/customizer/options/main.php:55
+msgid "Typography"
+msgstr "Typografi"
+
+#: header-footer-grid/Core/Builder/Header.php:38
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:491
+msgid "Header"
+msgstr "Sidhuvud"
+
+#: inc/customizer/options/layout_single_post.php:84
+msgid "Elements Order"
+msgstr "Ordning för element"
+
+#: inc/customizer/options/layout_sidebar.php:323
+msgid "Content Width (%)"
+msgstr "Innehållsbredd (%)"
+
+#: inc/customizer/options/layout_sidebar.php:224
+msgid "Sidebar Layout"
+msgstr "Layout för sidopanel"
+
+#: inc/customizer/options/layout_sidebar.php:165
+msgid "Others"
+msgstr "Övrigt"
+
+#: inc/customizer/options/layout_single_product.php:52
+#: inc/customizer/options/layout_sidebar.php:161
+msgid "Single Product"
+msgstr "Enskild produkt"
+
+#: inc/customizer/options/layout_sidebar.php:160
+msgid "Shop / Archive"
+msgstr "Butik/arkiv"
+
+#: inc/customizer/options/typography.php:306
+#: inc/customizer/options/layout_single_post.php:42
+#: inc/customizer/options/layout_sidebar.php:153
+msgid "Single Post"
+msgstr "Enskilt inlägg"
+
+#: inc/customizer/options/layout_sidebar.php:104
+msgid "Enable Advanced Options"
+msgstr "Aktivera avancerade alternativ"
+
+#: inc/customizer/options/layout_sidebar.php:81
+msgid "Sitewide Content Width (%)"
+msgstr "Global innehållsbredd (%)"
+
+#: inc/customizer/options/layout_sidebar.php:62
+msgid "Sitewide Sidebar Layout"
+msgstr "Sidopanelens layout på hela webbplatsen"
+
+#: header-footer-grid/Core/Components/Nav.php:177
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:123
+msgid "Search"
+msgstr "Sök"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:579
+msgid "Section Content"
+msgstr "Innehåll för sektion"
+
+#. translators: %1$s is Theme Name ( Neve ), %2$s is WordPress
+#: header-footer-grid/Core/Components/Copyright.php:64
+msgid "%1$s | Powered by %2$s"
+msgstr "%1$s | Drivs med %2$s"
+
+#: header-footer-grid/Core/Components/Button.php:116
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:182
+#: inc/customizer/controls/react/src/button-appearance/ButtonAppearanceComponent.js:189
+msgid "Text"
+msgstr "Text"
+
+#: inc/customizer/options/layout_single_product.php:124
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:201
+#: inc/customizer/controls/react/src/typeface/TypefaceComponent.js:233
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:127
+msgid "None"
+msgstr "Ingen"
+
+#: inc/customizer/options/layout_single_post.php:69
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:293
+msgid "Content"
+msgstr "Innehåll"
+
+#: header-footer-grid/Core/Builder/Footer.php:34
+#: header-footer-grid/Core/Builder/Footer.php:75
+msgid "Footer"
+msgstr "Sidfot"
+
+#: inc/customizer/options/layout_container.php:112
+msgid "Single Product Container Style"
+msgstr "Stil på innehållsram för enskilda produkter"
+
+#: inc/customizer/options/layout_container.php:108
+msgid "Shop / Archive Container Style"
+msgstr "Stil på innehållsram för Butik / Arkiv"
+
+#: inc/customizer/options/layout_container.php:98
+msgid "Single Post Container Style"
+msgstr "Stil på innehållsram för enskilda inlägg"
+
+#: inc/customizer/options/layout_container.php:94
+msgid "Blog / Archive Container Style"
+msgstr "Stil på innehållsram för Blogg / Arkiv"
+
+#: inc/customizer/options/layout_container.php:90
+msgid "Default Container Style"
+msgstr "Standardstil för innehållsram"
+
+#: inc/customizer/options/layout_blog.php:298
+msgid "Meta Order"
+msgstr "Ordning för meta"
+
+#: inc/customizer/options/layout_single_post.php:72
+#: inc/customizer/options/layout_blog.php:286
+#: inc/views/partials/post_meta.php:128
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:295
+msgid "Comments"
+msgstr "Kommentarer"
+
+#: inc/customizer/options/layout_blog.php:285
+#: inc/views/partials/post_meta.php:127
+msgid "Date"
+msgstr "Datum"
+
+#: inc/customizer/options/layout_single_product.php:107
+#: inc/customizer/options/layout_blog.php:284
+#: inc/views/partials/post_meta.php:126
+msgid "Category"
+msgstr "Kategori"
+
+#: header-footer-grid/Core/Magic_Tags.php:525
+#: inc/customizer/options/layout_blog.php:283
+#: inc/views/partials/post_meta.php:125
+msgid "Author"
+msgstr "Författare"
+
+#: inc/customizer/options/layout_blog.php:235
+msgid "Post Content Order"
+msgstr "Ordning för inläggsinnehåll"
+
+#: inc/customizer/options/layout_blog.php:224
+msgid "Excerpt"
+msgstr "Utdrag"
+
+#: inc/customizer/options/layout_single_post.php:67
+#: inc/customizer/options/layout_blog.php:223
+msgid "Title & Meta"
+msgstr "Rubrik och meta"
+
+#: inc/customizer/options/layout_single_post.php:68
+#: inc/customizer/options/layout_blog.php:222
+msgid "Thumbnail"
+msgstr "Miniatyr"
+
+#: inc/customizer/options/layout_blog.php:172
+msgid "Infinite Scroll"
+msgstr "Oändlig skrollning"
+
+#: inc/customizer/options/layout_blog.php:171
+msgid "Number"
+msgstr "Antal"
+
+#: inc/customizer/options/layout_blog.php:166
+msgid "Post Pagination"
+msgstr "Sidnumrering inlägg"
+
+#: inc/customizer/options/layout_blog.php:138
+msgid "Excerpt Length"
+msgstr "Utdragslängd"
+
+#: inc/customizer/options/layout_blog.php:119
+msgid "Enable Masonry"
+msgstr "Aktivera mosaik"
+
+#: inc/customizer/options/layout_blog.php:100
+msgid "4 Columns"
+msgstr "4 kolumner"
+
+#: inc/customizer/options/layout_blog.php:99
+msgid "3 Columns"
+msgstr "3 kolumner"
+
+#: inc/customizer/options/layout_blog.php:98
+msgid "2 Columns"
+msgstr "2 kolumner"
+
+#: inc/customizer/options/layout_blog.php:97
+msgid "1 Column"
+msgstr "1 kolumn"
+
+#: inc/customizer/options/layout_blog.php:95
+msgid "Grid Layout"
+msgstr "Rutnätslayout"
+
+#: header-footer-grid/Core/Settings/Manager.php:181
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:303
+#: inc/customizer/options/layout_blog.php:66 inc/customizer/options/main.php:51
+msgid "Layout"
+msgstr "Layout"
+
+#: inc/customizer/options/typography.php:115
+#: inc/customizer/options/layout_blog.php:66
+msgid "Blog"
+msgstr "Blogg"
+
+#: inc/customizer/options/layout_sidebar.php:152
+#: inc/customizer/options/layout_blog.php:47
+msgid "Blog / Archive"
+msgstr "Blogg/arkiv"
+
+#: inc/customizer/options/colors_background.php:42
+msgid "Colors & Background"
+msgstr "Färger och bakgrund"
+
+#. translators: %s is the header name
+#: header-footer-grid/Core/Customizer.php:265 assets/js/src/gutenberg.js:9
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:60
+#: inc/customizer/controls/react/src/font-family/FontFamilySelector.js:172
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:151
+msgid "Default"
+msgstr "Standard"
+
+#: header-footer-grid/Core/Components/FooterWidgetFour.php:32
+#: inc/core/front_end.php:505
+msgid "Footer Four"
+msgstr "Sidfot fyra"
+
+#: header-footer-grid/Core/Components/FooterWidgetThree.php:31
+#: inc/core/front_end.php:504
+msgid "Footer Three"
+msgstr "Sidfot tre"
+
+#: header-footer-grid/Core/Components/FooterWidgetTwo.php:32
+#: inc/core/front_end.php:503
+msgid "Footer Two"
+msgstr "Sidfot två"
+
+#: header-footer-grid/Core/Components/FooterWidgetOne.php:31
+#: inc/core/front_end.php:502
+msgid "Footer One"
+msgstr "Sidfot ett"
+
+#: inc/core/front_end.php:496
+msgid "Shop Sidebar"
+msgstr "Sidopanel butik"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:385
+#: header-footer-grid/Core/Components/Copyright.php:84
+#: header-footer-grid/Core/Components/CustomHtml.php:158
+#: header-footer-grid/Core/Components/Logo.php:205
+#: inc/customizer/options/colors_background.php:66 inc/core/front_end.php:179
+msgid "Text Color"
+msgstr "Textfärg"
+
+#: inc/customizer/options/colors_background.php:61 inc/core/front_end.php:175
+msgid "Link Hover Color"
+msgstr "Länkfärg vid hovring"
+
+#: inc/customizer/options/colors_background.php:56 inc/core/front_end.php:171
+msgid "Link Color"
+msgstr "Länkfärg"
+
+#: inc/core/front_end.php:167
+msgid "Button Color"
+msgstr "Knappfärg"
+
+#: inc/core/front_end.php:158
+msgid "White"
+msgstr "Vit"
+
+#: inc/core/front_end.php:149
+msgid "Black"
+msgstr "Svart"
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:202
+msgid "With %s, you can choose from multiple unique demos, specially designed for you, that can be installed with a single click. You just need to choose your favorite, and we will take care of everything else."
+msgstr "Med %s kan du välja mellan flera unika demos, speciellt utformade för dig, som kan installeras med ett enda klick. Välj bara din favorit, så sköter vi resten."
+
+#: header-footer-grid/templates/components/component-nav-footer.php:23
+#: header-footer-grid/Core/Components/NavFooter.php:41
+#: header-footer-grid/Core/Components/NavFooter.php:138
+#: inc/core/front_end.php:72
+msgid "Footer Menu"
+msgstr "Sidfotsmeny"
+
+#: header-footer-grid/templates/components/component-nav.php:26
+#: header-footer-grid/Core/Components/Nav.php:43
+#: header-footer-grid/Core/Components/Nav.php:221 inc/core/front_end.php:71
+msgid "Primary Menu"
+msgstr "Primär meny"
+
+#: inc/customizer/options/layout_sidebar.php:43 dashboard/inc/Main.php:325
+msgid "Content / Sidebar"
+msgstr "Innehåll/sidopanel"
+
+#: dashboard/inc/Main.php:321
+msgid "Footer Options"
+msgstr "Alternativ för sidfot"
+
+#: dashboard/inc/Main.php:317
+msgid "Blog Layouts"
+msgstr "Blogglayouter"
+
+#: dashboard/inc/Main.php:313
+msgid "Header Options"
+msgstr "Alternativ för sidhuvud"
+
+#: dashboard/inc/Main.php:309
+msgid "Layout Options"
+msgstr "Layoutalternativ"
+
+#: dashboard/inc/Main.php:305
+msgid "Customize Fonts"
+msgstr "Anpassade typsnitt"
+
+#: dashboard/inc/Main.php:301
+msgid "Set Colors"
+msgstr "Ställ in färger"
+
+#: dashboard/inc/Main.php:297
+msgid "Upload Logo"
+msgstr "Ladda upp logga"
+
+#: header-footer-grid/Core/Builder/Header.php:51
+#: header-footer-grid/Core/Builder/Footer.php:47 inc/core/admin.php:246
+msgid "Read full documentation"
+msgstr "Läs fullständig dokumentation"
+
+#. translators: %s - theme name
+#. translators: %s - Theme name
+#: inc/core/admin.php:244 dashboard/inc/Main.php:206
+msgid "Need more details? Please check our full documentation for detailed information on how to use %s."
+msgstr "Behöver du mer detaljer? Se vår fullständiga dokumentation för detaljerad information om hur du använder %s."
+
+#. translators: %s - Theme name
+#: dashboard/inc/Main.php:204
+msgid "We want to make sure you have the best experience using %1$s, and that is why we have gathered all the necessary information here for you. We hope you will enjoy using %1$s as much as we enjoy creating great products."
+msgstr "Vi vill se till att du har den bästa upplevelsen med %1$s, och det är därför vi har samlat all nödvändig information åt dig här. Vi hoppas du kommer gilla att använda %1$s lika mycket som vi gillar att skapa bra produkter."
+
+#: inc/core/admin.php:242
+msgid "Documentation"
+msgstr "Dokumentation"
+
+#. translators: %s - theme name
+#. translators: %s - Theme name
+#: inc/core/admin.php:236 dashboard/inc/Main.php:198
+msgid "%s now comes with a sites library with various designs to pick from. Visit our collection of demos that are constantly being added."
+msgstr "%s kommer nu med ett mallbibliotek med olika designer att välja bland. Besök vår samling av demos som ständigt läggs till."
+
+#: header-footer-grid/templates/components/component-cart-icon.php:50
+#: header-footer-grid/Core/Components/Nav.php:182
+#: header-footer-grid/Core/Magic_Tags.php:580 inc/views/header.php:165
+msgid "Cart"
+msgstr "Varukorg"
+
+#: inc/compatibility/woocommerce.php:356
+msgid "Filter"
+msgstr "Filtrera"
+
+#: inc/admin/plugin_install/main.php:176
+msgid "Activating "
+msgstr "Aktiverar "
+
+#: inc/admin/plugin_install/main.php:133
+msgid "Jetpack Portfolio"
+msgstr "Jetpack-portfölj"
+
+#: inc/admin/plugin_install/main.php:128
+msgid "Deactivate"
+msgstr "Inaktivera"
+
+#: inc/admin/plugin_install/main.php:113 inc/admin/plugin_install/main.php:133
+msgid "Activate"
+msgstr "Aktivera"
+
+#: inc/admin/plugin_install/main.php:109
+msgid "Install and activate"
+msgstr "Installera och aktivera"
+
+#: inc/admin/metabox/main.php:56 inc/core/front_end.php:495
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:117
+msgid "Sidebar"
+msgstr "Sidopanel"
+
+#: inc/admin/metabox/main.php:54
+msgid "No Sidebar"
+msgstr "Ingen sidopanel"
+
+#: inc/admin/metabox/main.php:53
+msgid "Right Sidebar"
+msgstr "Höger sidopanel"
+
+#: inc/admin/metabox/main.php:52
+msgid "Left Sidebar"
+msgstr "Vänster sidopanel"
+
+#: inc/customizer/options/layout_container.php:43 inc/admin/metabox/main.php:41
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:141
+msgid "Container"
+msgstr "Innehållsram"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:309
+#: inc/customizer/options/layout_container.php:134
+#: inc/admin/metabox/main.php:39
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:165
+msgid "Full Width"
+msgstr "Full bredd"
+
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:308
+#: header-footer-grid/Core/Builder/Abstract_Builder.php:310
+#: inc/customizer/options/layout_container.php:133
+#: inc/admin/metabox/main.php:38
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:158
+msgid "Contained"
+msgstr "Inramad"
+
+#: inc/admin/metabox/main.php:37 inc/admin/metabox/main.php:51
+msgid "Customizer Setting"
+msgstr "Inställningar i anpassaren"
+
+#: inc/admin/metabox/main.php:88
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:350
+msgid "Disable Footer"
+msgstr "Inaktivera sidfot"
+
+#: inc/admin/metabox/main.php:82
+msgid "Disable Featured Image"
+msgstr "Inaktivera utvald bild"
+
+#: inc/admin/metabox/main.php:76
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:364
+msgid "Disable Title"
+msgstr "Inaktivera rubrik"
+
+#: inc/admin/metabox/main.php:71
+#: inc/admin/metabox/src/components/MetaFieldsManager.js:338
+msgid "Disable Header"
+msgstr "Inaktivera sidhuvud"
+
+#: inc/admin/metabox/main.php:70
+msgid "Components"
+msgstr "Komponenter"
+
+#: inc/admin/metabox/main.php:129
+msgid "Enable Individual Content Width"
+msgstr "Aktivera individuell innehållsbredd"
+
+#: inc/admin/metabox/main.php:128
+msgid "Content Width"
+msgstr "Innehållsbredd"
+
+#: header.php:31
+msgid "Skip to content"
+msgstr "Hoppa till innehåll"
+
+#. translators: %s message to upgrade PHP to the latest version
+#: functions.php:44
+msgid "Hey, we've noticed that you're running an outdated version of PHP which is no longer supported. Make sure your site is fast and secure, by %s. Neve's minimal requirement is PHP 5.4.0."
+msgstr "Hej, det ser ut som om du använder en föråldrad version av PHP som inte längre stöds. Säkerställ att din webbplats är snabb och säker genom att %s. Neve kräver minst PHP 5.4.0."
+
+#. Author URI of the theme
+msgid "https://themeisle.com"
+msgstr "https://themeisle.com"
+
+#. Author of the theme
+msgid "ThemeIsle"
+msgstr "ThemeIsle"
+
+#. Theme URI of the theme
+msgid "https://themeisle.com/themes/neve/"
+msgstr "https://themeisle.com/themes/neve/"
